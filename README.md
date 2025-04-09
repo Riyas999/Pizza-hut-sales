@@ -1,2 +1,3 @@
 # Pizza-hut-sales
-Pizza hut sales analysis using MySQL
+*Pizza hut sales analysis using MySQL*
+This project focuses on analyzing Pizza Hut’s sales data using MySQL to uncover key business insights. By working with structured tables including orders, order details, and pizza information,applied SQL queries to answer important questions such as total revenue, best-selling pizzas, and category performance,etc. The analysis also examines sales trends by date and time to identify peak periods and customer behavior patterns. Through data aggregation and visualization,gained valuable insights that can help improve business decisions—such as optimizing inventory, enhancing marketing strategies, and identifying high-performing products.
